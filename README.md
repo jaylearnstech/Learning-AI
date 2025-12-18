@@ -1,5 +1,5 @@
 # Learning AI - Resources
-A collection of resources for learning about AI & AI-Powered Security
+A collection of resources for beginners learning about AI
 
 ## 📹 YouTube Channels
-Cloud Security Guy - https://www.youtube.com/@CloudSecurityGuy
+NetworkChuck - https://www.youtube.com/@NetworkChuck
