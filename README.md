@@ -1,2 +1,5 @@
 # Learning AI - Resources
-A collection of learning resources for tech folk beggining their journey learning about AI (focussing mainly on the Microsoft ecosystem)
+A collection of learning resources for learning about AI & AI Securiy
+
+## YouTube Channels
+Cloud Security Guy - https://www.youtube.com/@CloudSecurityGuy
